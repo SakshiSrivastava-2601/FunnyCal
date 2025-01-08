@@ -1,3 +1,6 @@
+ *******FUNNY CALCULATOR WEB APPLICATION*******
+
+
 Description
 
 FunnyCal is a simple web application developed using Servlets,JSP,HTML,CSS. Its a type of calculator which do calculation and having emojis and jokes also
