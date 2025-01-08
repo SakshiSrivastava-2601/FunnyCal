@@ -9,8 +9,11 @@ Its take two input from a user and do calculation by performing operations in it
 Technologies Used
 
 --> Java Servlets
+
 --> JavaServer Pages(JSP)
+
 --> HTML
+
 --> CSS
 
 Screenshots
